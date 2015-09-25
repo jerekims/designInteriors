@@ -1,0 +1,31 @@
+body{
+	width: 980px;
+	margin: 0 auto;
+}
+.row{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.thumbnail{
+	padding: 0px;
+}
+#header-area{
+	background-color: #55B7B6;
+	margin-top: 20px;
+}
+.footer-links{
+	background-color:#6E6E6E;
+	color: white;
+	font-size: 20px;
+	font-family: gothic;
+
+}
+.copyright{
+	background-color: #151515;
+}
+.copyright .container p{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-family: gothic;
+}
