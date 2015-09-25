@@ -1,7 +1,7 @@
 <html>
 <head>
   <title>
-      Mirad Jewellerry
+     Indesign Interiors Limited
   </title>
    <!-- LINK FONTS
     _______________________________________________________________________ -->
@@ -35,8 +35,9 @@
       </footer>
             
    <!-- Scripts_________________ -->
-  <script type="text/javascript" src="<?php echo base_url().'assets/js/bootstrap.min.js'?>"></script>
+ 
   <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script> 
+   <script type="text/javascript" src="<?php echo base_url().'assets/js/bootstrap.min.js'?>"></script>
   <script type="text/javascript" src="<?php echo base_url().'assets/js/scripts.js'?>"></script>  
 
 </body>
